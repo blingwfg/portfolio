@@ -1,0 +1,16 @@
+{
+    "window.zoomLevel": 1,
+    "editor.fontSize": 12,
+    "editor.wordWrap": "on",
+    "liveServer.settings.host": "127.0.0.1",
+    "liveServer.settings.port": 4840,
+    "liveSassCompile.settings.formats": [
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css",
+            "savePathReplacementPairs": null
+        }
+    ]
+    
+}
